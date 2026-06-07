@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ESP32 Servo Control — Web + Alexa
 
 Control a servo motor using your browser and Alexa voice commands via ESP32.
@@ -48,3 +49,6 @@ ESP32 GPIO 13  →  Servo Signal (orange/yellow wire)
 ESP32 5V       →  Servo Power  (red wire)
 ESP32 GND      →  Servo GND    (brown/black wire)
 ```
+=======
+# Esp32-Alexa
+>>>>>>> 9b27461cae422cf197bcc8e4967d4146b278e853
